@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Spring framework , java , javascript , Typescript ,Angular ...**
 
-- 📫 How to reach me **waelarfaoui@ieee.org**
+- 📫 How to reach me **wael.arfaaoui@gmail.com**
 
 <p align="left">
 </p>
