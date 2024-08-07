@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wael Arfaoui !</h1>
-<h3 align="center">A Computer Science engineering Student and a passionate fullstack web Developer from TUNISIA </h3>
+<h3 align="center">A Software engineer and a passionate fullstack web Developer from TUNISIA </h3>
 
 - 💬 Ask me about **Spring framework , java , javascript , Typescript ,Angular ...**
 
